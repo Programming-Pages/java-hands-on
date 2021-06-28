@@ -11,6 +11,9 @@ public class Comments {
 		/*
 		 * This is a multi-line comment
 		 */
+		/*
+		 * test
+		 */
 
 	}
 
